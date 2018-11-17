@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog2>
+	<WearableTechnology>
+	<console id="fitbit1.0">
+        <name>Fitbit 1.0</name>
+        <price>129.99</price>
+        <image>fitbit1.0.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </console>
+    <console id="fitbitversa">
+        <name>Fitbit Versa</name>
+        <price>199.99</price>
+        <image>fitbitversa.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </console>
+    <console id="applewatchseries4">
+        <name>Apple Watch Series 4</name>
+        <price>399.99</price>
+        <image>applewatchseries4.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="polarm430">
+        <name>Polar M430</name>
+        <price>29.99</price>
+        <image>polarm430.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <!--Part 2-->
+    <console id="fitbit1.02">
+        <name>Fitbit 1.1</name>
+        <price>129.99</price>
+        <image>fitbit1.0.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="fitbitversa2">
+        <name>Fitbit Versa 2</name>
+        <price>199.99</price>
+        <image>fitbitversa.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="applewatchseries42">
+        <name>Apple Watch Series 5</name>
+        <price>399.99</price>
+        <image>applewatchseries4.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="polarm4302">
+        <name>Polar M431</name>
+        <price>29.99</price>
+        <image>polarm430.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <!--end-->
+    <console id="samsunggears3">
+        <name>Samsung Gear S3</name>
+        <price>169.99</price>
+        <image>samsunggears3.jpg</image>
+        <manufacturer>smartwatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </console>
+    <console id="fossilqmeng3">
+        <name>Fossil Q Men G3</name>
+        <price>141.99</price>
+        <image>fossilqgmen3.jpg</image>
+        <manufacturer>smartwatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="fitbitblaze">
+        <name>Fitbit Blaze</name>
+        <price>158.99</price>
+        <image>fitbitblaze.jpg</image>
+        <manufacturer>smartwatches</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="bosequietcomfort35">
+        <name>Bose Quiet Comfert 35</name>
+        <price>349.99</price>
+        <image>bosequietcomfort35.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </console>
+    <console id="cowine7">
+        <name>Cowin E7</name>
+        <price>69.99</price>
+        <image>cowine7.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="sonymdr7506">
+        <name>SONY MDR 7506</name>
+        <price>99.99</price>
+        <image>sonymdr7506.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="oculusrift">
+        <name>Oculus Rift</name>
+        <price>399.99</price>
+        <image>oculusrift.jpg</image>
+        <manufacturer>virtualreality</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </console>
+    <console id="fovitec">
+        <name>Fovitec</name>
+        <price>45.99</price>
+        <image>fovitec.jpg</image>
+        <manufacturer>virtualreality</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="htcvivedelux">
+        <name>HTC Vive Delux</name>
+        <price>84.99</price>
+        <image>htcvivedelux.jpg</image>
+        <manufacturer>virtualreality</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="tractive3g">
+        <name>Tractive 3G</name>
+        <price>64.99</price>
+        <image>tracatice3g.jpg</image>
+        <manufacturer>pettracker</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </console>
+    <console id="pettrainer">
+        <name>Pettrainer</name>
+        <price>28.99</price>
+        <image>pettrainer.jpg</image>
+        <manufacturer>pettracker</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    <console id="linkakc">
+        <name>Link AKC</name>
+        <price>99.99</price>
+        <image>linkakc.jpg</image>
+        <manufacturer>pettracker</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </console>
+    
+ </WearableTechnology>
+ <Phones>
+ 	<game id="iphonexsmax">
+        <name>iphone XS Max</name>
+        <price>1399.99</price>
+        <image>iphonexsmax.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </game>
+    <game id="iphonexs">
+        <name>iphone XS</name>
+        <price>1299.99</price>
+        <image>iphonexs.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+    <game id="iphonex">
+        <name>iphone X</name>
+        <price>999.99</price>
+        <image>iphonex.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+    <game id="iphonexr">
+        <name>iphone XR</name>
+        <price>999.99</price>
+        <image>iphonexr.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+    <game id="iphone8">
+        <name>iphone 8</name>
+        <price>829.99</price>
+        <image>iphone8.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>  
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+    <game id="iphone7">
+        <name>iphone 7</name>
+        <price>789.99</price>
+        <image>iphone7.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+    <game id="iphone7plus">
+        <name>iphone 7 plus</name>
+        <price>829.99</price>
+        <image>iphone7plus.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+    <game id="iphone6">
+        <name>iphone 6</name>
+        <price>529.99</price>
+        <image>iphone6.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+    <game id="iphone6s">
+        <name>iphone 6s</name>
+        <price>599.99</price>
+        <image>iphone6s.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+    <game id="sonyxperiax">
+        <name>Sony Xperia X</name>
+        <price>999.99</price>
+        <image>sonyxperiax.jpg</image>
+        <manufacturer>sony</manufacturer>  
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+        </accessories>  
+    </game>
+     <game id="sonyxperiaxa2">
+        <name>Sony Xperia XA2</name>
+        <price>999.99</price>
+        <image>sonyxperiaxa2.jpg</image>
+        <manufacturer>sony</manufacturer>  
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+     <game id="sonyxperiaxa3">
+        <name>Sony Xperia XA3</name>
+        <price>729.99</price>
+        <image>sonyxperixa3.jpg</image>
+        <manufacturer>sony</manufacturer>  
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+    <game id="sonyxperiax4">
+        <name>Sony Xperia X4</name>
+        <price>789.99</price>
+        <image>sonyxperiax4.jpg</image>
+        <manufacturer>sony</manufacturer>  
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+        </accessories>  
+    </game>
+    <game id="sonyxperiax4">
+        <name>Sony Xperia X4</name>
+        <price>789.99</price>
+        <image>sonyxperiax4.jpg</image>
+        <manufacturer>sony</manufacturer>  
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+        </accessories>  
+    </game>
+    <game id="sonyxperiaxl1">
+        <name>Sony Xperia L1</name>
+        <price>149.99</price>
+        <image>sonyxperial1.jpg</image>
+        <manufacturer>sony</manufacturer>  
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+        </accessories>  
+    </game>
+    <game id="motogplus">
+        <name>Moto G Plus</name>
+        <price>499.99</price>
+        <image>motogplus.jpg</image>
+        <manufacturer>moto</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </game>
+        <game id="motog6">
+        <name>Moto G6</name>
+        <price>299.99</price>
+        <image>motog6.jpg</image>
+        <manufacturer>moto</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+        <game id="motoe">
+        <name>Moto E</name>
+        <price>199.99</price>
+        <image>motoe.jpg</image>
+        <manufacturer>moto</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>    
+        <game id="motonexus6">
+        <name>Moto Nexus 6</name>
+        <price>999.99</price> 
+        <image>motonexus6.jpg</image>
+        <manufacturer>moto</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </game>
+ </Phones>
+<Laptops>
+    <tablet id="fitbit">
+        <name>Apple Macbook Air 13inches</name>
+        <price>1299.99</price>
+        <image>Apple_1.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="air15">
+        <name>Apple Macbook Air 15inches</name>
+        <price>1399.99</price>
+        <image>Apple_2.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="air13.3">
+        <name>Apple Macbook Air 13.3'inches</name>
+        <price>1199.99</price>
+        <image>Apple_3.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+	<tablet id="Pro15">
+        <name>Apple Macbook Pro 15 Inches</name>
+        <price>1399.99</price>
+        <image>Apple_1.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="Pro13.3">
+        <name>Apple Macbook Pro 13.3' Inches</name>
+        <price>1299.99</price>
+        <image>Apple_2.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="Pro13">
+        <name>Apple Macbook Pro 13 Inches</name>
+        <price>1229.99</price>
+        <image>Apple_3.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="Windows10">
+        <name>Microsoft Windows 10</name>
+        <price>589.99</price>
+        <image>surface_1.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="surfacepro">
+        <name>Microsoft Surface Pro</name>
+        <price>529.99</price>
+        <image>surface_2.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="surfacebook">
+        <name>Microsoft Surface Book</name>
+        <price>429.99</price>
+        <image>surface_1.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+	<tablet id="dellinspiron3000">
+        <name>Dell Inspirion 3000</name>
+        <price>589.99</price>
+        <image>Dell_1.jpg</image>
+        <manufacturer>dell</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="dellinspiron5000">
+        <name>Dell Inspirion 5000</name>
+        <price>629.99</price>
+        <image>Dell_2.jpg</image>
+        <manufacturer>dell</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+</Laptops>
+<Speaker>
+	<speaker id="amazon1">
+        <name>Echo Smart</name>
+        <price>99.99</price>
+        <image>Amazon_1.jpg</image>
+        <manufacturer>jbl</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </speaker>
+    <speaker id="amazon2">
+        <name>Echo Plus</name>
+        <price>149.99</price>
+        <image>Amazon_2.jpg</image>
+        <manufacturer>jbl</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </speaker>
+    <speaker id="amazon3">
+        <name>Echo Spot</name>
+        <price>129.99</price>
+        <image>Amazon_3.jpg</image>
+        <manufacturer>jbl</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </speaker>
+    <speaker id="amazon4">
+        <name>Echo Dot</name>
+        <price>49.99</price>
+        <image>Amazon_4.jpg</image>
+        <manufacturer>jbl</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </speaker>
+
+    <speaker id="google1">
+        <name>Google Home</name>
+        <price>99.99</price>
+        <image>Google.jpg</image>
+        <manufacturer>boss</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </speaker>
+</Speaker>
+
+<AccessoryCatalog>
+
+    <accessory id="xboxone_wc">
+        <name>Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_sh">
+        <name>Turtle Beach Headset</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+     <accessory id="xboxone_vb">
+        <name>joystick</name>
+        <price>89.99</price>
+        <image>joystick.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_kg">
+        <name>Keypad</name>
+        <price>89.99</price>
+        <image>keypad.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+     <accessory id="xboxone_rs">
+        <name>Starterkit</name>
+        <price>89.99</price>
+        <image>starterkit.jpeg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_mp">
+        <name>Wireless adpter</name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+     <accessory id="xboxone_mc">
+        <name>Wireless </name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+
+    <accessory id="xbox360_wc">
+        <name>XBOX Speeding Wheel</name>
+        <price>89.99</price>
+        <image>XBOX360-SpeedWheel.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xbox360_sh">
+        <name>XBOX Wireless Adapter</name>
+        <price>89.99</price>
+        <image>xbox360_wa.png</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+     <accessory id="xbox360_vb">
+        <name>Remote</name>
+        <price>89.99</price>
+        <image>remote.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+         <accessory id="xbox360_rs">
+        <name>messengerkit</name>
+        <price>89.99</price>
+        <image>messengerkit.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+         <accessory id="xbox360_mp">
+        <name>Steering</name>
+        <price>89.99</price>
+        <image>steering.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+         <accessory id="xbox360_kg">
+        <name>Charger</name>
+        <price>89.99</price>
+        <image>charger.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps4_wc">
+        <name>PS Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps3_wc">
+        <name>PS Gaming HeadPhones</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_wc">
+        <name>Nintendo Controller</name>
+        <price>89.99</price>
+        <image>Wii1.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_sh">
+        <name>Nintendo Racing Controller</name>
+        <price>89.99</price>
+        <image>Wii2.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+  
+
+</AccessoryCatalog>
+
+
+
+</ProductCatalog2>

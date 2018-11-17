@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Smart Portables</title>
+<link rel="stylesheet" href="styles.css?v=1.2" type="text/css" />    
+<!-- Links for Jquery and bootstrap css -->
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <script>
+<!-- jqurey script -->
+$(document).ready(function(){
+
+    $('#myCarousel').carousel({
+  interval: 3000
+})
+
+$('.carousel .item').each(function(){
+  var next = $(this).next();
+  if (!next.length) {
+    next = $(this).siblings(':first');
+  }
+  next.children(':first-child').clone().appendTo($(this));
+});
+});
+</script>
+<script type="text/javascript" src="javascript.js"></script>
+<style>
+* {
+        box-sizing : unset;
+    }
+    
+.col-md-6{
+        width : 45% ! important;
+    }
+</style>    
+
+</head>
+
+<body>
+<div id="container">
+	<div id="header">
+    	<h1><a href="Home">Smart<strong>Portables</strong></a></h1>     
+        <div
+      style="float: right; width: 30%; margin-top: 35px; border: 1px solid white; padding: 5px; padding-right: 15px">
+      <em style="color: black;">Search Product:</em>
+      <div name="autofillform">
+        <input type="text" name="searchId" value="" class="input"
+          id="searchId" onkeyup="doCompletion(this.value)"  
+          placeholder="search here.." style="padding: 5px; font-size: 16px;" />
+        <div id="auto-row">
+          <table id="complete-table" class="gridtable"
+            style="position: absolute; width: 315px;"></table>
+        </div>
+      </div>
+    </div>
+        <div class="clear"></div>
+    </div>
+    <div id="nav">  
+    	<ul>
+        	<li><a href="WearableTechnologyList" style="padding:28px 5px 26px;font-size:10px">Wearable Technology</a></li>
+            <li><a href="PhonesList" style="padding:28px 5px 26px;font-size:10px"  >Phones</a></li>
+            <li><a href="LaptopsList" style="padding:28px 5px 26px;font-size:10px"  >Laptops</a></li>      
+            <li><a href="SpeakerList" style="padding:28px 5px 26px;font-size:10px"  >Smart Speakers</a></li>
+            <li><a href="Trending" style="padding:28px 5px 26px;font-size:10px"  >Trending </span></a></li>
+            <li><a href="DataAnalytics" style="padding:28px 5px 26px;font-size:10px"  >DataAnalytics</span></a></li>
+           
+        
+
+    
